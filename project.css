@@ -1,0 +1,79 @@
+.aboutme {
+    margin: 0.5rem;
+    padding: 0.3rem;
+    font-size: 1.2rem;
+    background-color: #eee;
+    font: 1rem "Fira Sans";
+    float: left;
+    border: thin #c0c0c0 solid;
+  }
+  .about-me-text {
+    float: left;
+  }
+  .experience {
+    margin: 0.5rem;
+    padding: 0.3rem;
+    font-size: 1.2rem;
+    background: yellow;
+    float: left;
+    border: thin #c0c0c0 solid;
+    width: 99%;
+  }
+  .skills {
+    margin: 0.5rem;
+    padding: 0.3rem;
+    font-size: 1.2rem;
+    background: #eee;
+    float: left;
+    width: 99%;
+    border: thin #c0c0c0 solid;
+  }
+  a
+  {
+    margin: 0.5rem;
+    padding: 0.3rem;
+    font-size: 1.2rem;
+    background: #FFE4E1;
+    float: left;
+    border: thin #c0c0c0 solid;
+    width: 50%;
+  }
+  a:link { color: #FF4500; }
+  a:visted { color: purple; }
+  
+  .top {
+    color: #191970;
+    background: #E6E6FA;
+    margin: 0.5rem;
+    padding: 0.3rem;
+    font-size: 1.2rem;
+    font: 2.1rem "Fira Sans";
+    border: thin #c0c0c0 solid;
+  }
+  .aside {
+    background: yellow;
+    float: left;
+    border: thin #c0c0c0 solid;
+    font-size: 1.745em;
+  }
+  span {
+    background: black;
+    border: thin #c0c0c0 solid;
+  }
+  .clearfix {
+    clear: both;
+  }
+  p:hover{
+  background: #e3e3e3;
+  }
+  h2::first-letter {
+     float: left;
+     font-size: 2em;
+     font-weight: bold;
+     font-family: cursive;
+     padding-right: 2px;
+  }
+  .progress{
+    background: #b9f6ca;
+  }
+  
